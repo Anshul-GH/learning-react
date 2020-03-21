@@ -10,7 +10,7 @@
 
 import React from "react"
 import ReactDOM from "react-dom"
-import MyInfo from "./components/Apps"
+import App from "./components/App"
 
 // JSX
-ReactDOM.render(<Apps />, document.getElementById("root"))
+ReactDOM.render(<App />, document.getElementById("root"))
